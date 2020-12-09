@@ -4,7 +4,6 @@ import {createUser,getUsers,getUser,deleteUser,updateUser} from '../controllers/
 
 const router = express.Router();
 
-let users = []
 
 
 // all routes in here are starting with /users
